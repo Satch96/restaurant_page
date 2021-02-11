@@ -1,0 +1,31 @@
+#content{
+    text-align: center;
+}
+
+.tab{
+    margin: 20px;
+    margin-top: 100px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.tab:hover{
+    cursor: pointer;
+    background-color: darkgray;
+}
+
+.info{
+    margin-top: 50px;
+}
+
+.fa{
+    margin-top: 10px;
+}
+
+.top{
+    margin-top: 10px;
+}
+
+.tab_container{
+    margin-top: 50px;
+}
